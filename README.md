@@ -13,4 +13,4 @@ Welcome to the HealthyCoderApp, your go-to application for staying fit and healt
 To get started with HealthyCoderApp, follow these simple steps:
 
 1. **Clone the Repository**:
-> git clone https://github.com/YourUsername/HealthyCoderApp.git
+> git clone https://github.com/renanrfs/HealthyCoderApp.git
